@@ -137,6 +137,3 @@ This project demonstrates how to set up Apache Cassandra using Docker, connect t
 
 ## Conclusion
 This project showcases a straightforward way to set up and use Cassandra with Docker and Python. By following the provided steps, you can quickly get a Cassandra instance running, interact with it using `cqlsh`, and perform data operations using Python. This POC serves as a foundation for more complex data modeling and ingestion tasks in Cassandra.
-```
-
-You can copy this text into a `README.md` file to showcase your project and guide users through the process of setting up and using Cassandra for data ingestion with Docker and Python.

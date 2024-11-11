@@ -62,7 +62,7 @@ pip install opencv-python scikit-image fpdf pillow
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/Video-to-PDF-AI-Tool.git
+   git clone https://github.com/s100rab/Video-to-PDF-AI-Tool.git
    cd Video-to-PDF-AI-Tool
    ```
 
